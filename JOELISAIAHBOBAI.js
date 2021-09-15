@@ -1,4 +1,4 @@
-alert("Hello, welcome to Joel person site");
+alert("Hello, welcome to Joel personal site");
 alert("Please leave a message");
 
 const randomBgGenerator = document.body.querySelector('#randomBgGenerator');
